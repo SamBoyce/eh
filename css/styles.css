@@ -1,0 +1,162 @@
+/*
+COLOR SCHEMES:
+Mid blue- 47A6FC
+Owangeg- FE500D
+yell tan- FEE24D
+pinko- FFA1FB
+*/
+body {
+ color: orange;
+}
+
+
+.button-wrap {
+    text-align: center;
+}
+
+
+.image-content > img {
+ 
+
+}
+
+
+
+    
+h4 > a {
+    color: red;
+}
+
+h4 > a:hover {
+    color: blueviolet;
+}
+
+
+.image-content {
+    text-align: center;
+}
+
+
+
+#skills {
+    text-align: center;
+    font-size: 25px; 
+    color: red;
+}
+
+#skills span {
+    font-size: 15px;
+    letter-spacing: 5px;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+header > h1 {
+    color:black;
+   font-family:  "Baskerville Old Face";
+    text-align: right;
+    font-size: 60px;
+}
+
+header > h2 {
+    color: black;
+     font-family:  "Baskerville Old Face";
+    text-align: right;
+    margin-top: 0;
+}
+
+article h2 {
+    color: green;
+    text-align: center;
+}
+
+article p {
+    max-width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+
+
+nav > ul > button {
+    border: none;
+    color: red;
+    font-size: 25px;
+    display: inline-block;
+    margin: 4;
+    transition: background-color .5s;
+    background-color: black;
+    min-width: 225px;
+}
+
+nav > ul {
+    
+    color: white;
+    min-height: 40px;
+    padding: 15px 0 15px 0;
+}
+
+
+nav > ul > button:hover {
+    background-color: grey;
+}    
+
+
+
+
+
+p {
+    color: floralwhite;
+    text-shadow: 
+        0 0 3px black,
+        0 0 3px black,
+        0 0 3px black;
+
+}
+
+
+
+#nav {
+    min-height: 30px;
+    height: auto;
+}
+
+
+
+#Feature {
+   margin-top: 120px;
+    text-align: center;
+}
+
+h7 {
+    color: black;
+    font-size: 40px;
+}
+    
+#favorite-sites {
+
+    
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+
+footer {
+    font-size: 50px;
+    
+}
+
+footer h1 {
+    text-align: center;
+}
+
+.max-width {
+    padding-left: 80%;
+
+}
